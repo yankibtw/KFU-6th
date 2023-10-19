@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\bin\Debug\TumakovHomeTask.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\bin\Debug\TumakovHomeTask.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\bin\Debug\TumakovHomeTask.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\obj\Debug\TumakovHomeTask.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\obj\Debug\TumakovHomeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\obj\Debug\TumakovHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\obj\Debug\TumakovHomeTask.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-6th\TumakovHomeTask\obj\Debug\TumakovHomeTask.pdb
